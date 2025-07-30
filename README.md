@@ -3,8 +3,7 @@ En este repositorio encontrar  un solucion siseñada para organizar y gestionato
 
 ## Nombre 
 -**Viviana Córdova** 
-
-<img width="4676" height="1964" alt="Image" src="https://github.com/user-attachments/assets/a673d606-2265-43c2-a28e-ecd63350abfa" />
+![](https://github.com/user-attachments/assets/bb00fac4-8bbe-490c-af7d-d4cc7a3ee53c)
 ### Requerimientos
 
 -Utilizar un repositorio GitHub
