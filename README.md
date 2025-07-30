@@ -1,9 +1,10 @@
-# Sistema-de Gestion de Parqueadero
+<img width="4676" height="1964" alt="image" src="https://github.com/user-attachments/assets/d90734d3-5c92-44c3-bd50-a82faadba72f" /># Sistema-de Gestion de Parqueadero
 En este repositorio encontrar  un solucion siseñada para organizar y gestionator un parquedero de vehiculos, sideo e objetivos principal obtimizar el uso de espacio disponible, garantiar seguridad de los vehiculos, generar tafifa toatal de tiempo entree otros parameros.
 
 ## Nombre 
 -**Viviana Córdova** 
 
+<img width="4676" height="1964" alt="Image" src="https://github.com/user-attachments/assets/a673d606-2265-43c2-a28e-ecd63350abfa" />
 ### Requerimientos
 
 -Utilizar un repositorio GitHub
